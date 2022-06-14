@@ -1,0 +1,1 @@
+java  -jar /opt/hello-app/app.jar
